@@ -1,4 +1,7 @@
 rencana ta fdl:
 - website bantuan sosial
+  *membuat mockupnya
+  *membuat database
+  *melakukan coding
 - database penjualan
 - website penjualan sembako
